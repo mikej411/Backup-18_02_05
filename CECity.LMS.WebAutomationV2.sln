@@ -1,0 +1,252 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RCP.UITest", "RCP.UITest\RCP.UITest.csproj", "{9A16C034-CB68-4B2F-ADF3-7379CE45F5CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Browser.Core.Framework", "Browser.Core.Framework\Browser.Core.Framework.csproj", "{72867F68-8454-4F1A-8315-99E403F60BF3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RCP", "RCP", "{F1CDC28E-2891-48DA-8DDF-7C137DCAB211}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RCP.AppFramework", "RCP.AppFramework\RCP.AppFramework.csproj", "{82FF5822-C797-4E7E-B3FA-2E9A6B9DE181}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CFPC", "CFPC", "{A8182847-3A35-4E88-B992-1CFBEE165274}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CFPC.AppFramework", "CFPC.AppFramework\CFPC.AppFramework.csproj", "{59A62C6D-A8E8-40F7-BED6-76CFC5972D4B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AAFPRS", "AAFPRS", "{6FF033B4-4DF7-4DEB-8011-FAD0593C49CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AAFPRS.UITest", "AAFPRS.UITest\AAFPRS.UITest.csproj", "{C038CC0D-4E06-4BB6-8442-84FD5A68B2DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AAFPRS.AppFramework", "AAFPRS.AppFramework\AAFPRS.AppFramework.csproj", "{5A474943-CAF9-4C5C-80CA-1D379DA2E79B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AMA", "AMA", "{95DD57C0-759D-4A88-970B-D3F672DE82E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMA.AppFramework", "AMA.AppFramework\AMA.AppFramework.csproj", "{0DBFBCDF-410F-48E4-80F5-306512C2E975}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMA.UITest", "AMA.UITest\AMA.UITest.csproj", "{320C232C-DDC3-40AE-A280-A1077D6A745F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ASNC", "ASNC", "{F71C58C5-C413-4FE4-8A51-75FF0E3A7B98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASNC.AppFramework", "ASNC.AppFramework\ASNC.AppFramework.csproj", "{C50B61D0-FE49-4A90-B9F0-EC1FD4E9158E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASNC.UITest", "ASNC.UITest\ASNC.UITest.csproj", "{9666D404-BF6B-4650-B7F5-DDF34AF4885A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NOF", "NOF", "{53ED385B-E406-4DBB-B07C-4E5AF1A7558E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NOF.AppFramework", "NOF.AppFramework\NOF.AppFramework.csproj", "{3B2E2C27-7DB5-42AD-B598-FF97FE6E675D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NOF.UITest", "NOF.UITest\NOF.UITest.csproj", "{19BAB28A-3EF3-4C64-A61B-2E39945595C3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lifetime Support", "Lifetime Support", "{5D79FC2E-55EE-4C34-9F73-E8600BD07AC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LS.AppFramework", "LMS.AppFramework\LS.AppFramework.csproj", "{E764E70A-2BDE-46A1-8919-547B37E55E3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LS.UITest", "LS.UITest\LS.UITest.csproj", "{4B0FB036-C539-4BF3-8AD4-33EEF1CBD75B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CFPC.UITest", "CFPC.UITest\CFPC.UITest.csproj", "{3E69B20B-68CC-42C1-9845-9FFD5DB9A181}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CME360", "CME360", "{CBC05EF4-B865-4329-8F80-72180DFCC847}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CME360.UITest", "CME360.UITest\CME360.UITest.csproj", "{5BE1DE69-7AFF-46CC-88E8-AAF182EB0087}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CME360.AppFramework", "CME360.AppFramework\CME360.AppFramework.csproj", "{8CA1C77C-110F-4528-8127-73948A6C8C01}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestPortal", "TestPortal", "{8EA032BB-92C8-4874-81D6-DB9BD7CDFDCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPortal.AppFramework", "TestPortal.AppFramework\TestPortal.AppFramework.csproj", "{9DAB9A3A-C209-4024-917E-1D14FC16388B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPortal.UITest", "TestPortal.UITest\TestPortal.UITest.csproj", "{6FD7E933-ED3E-411C-94F0-5E3891C41101}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A16C034-CB68-4B2F-ADF3-7379CE45F5CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A16C034-CB68-4B2F-ADF3-7379CE45F5CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A16C034-CB68-4B2F-ADF3-7379CE45F5CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A16C034-CB68-4B2F-ADF3-7379CE45F5CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72867F68-8454-4F1A-8315-99E403F60BF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72867F68-8454-4F1A-8315-99E403F60BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72867F68-8454-4F1A-8315-99E403F60BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72867F68-8454-4F1A-8315-99E403F60BF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82FF5822-C797-4E7E-B3FA-2E9A6B9DE181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82FF5822-C797-4E7E-B3FA-2E9A6B9DE181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82FF5822-C797-4E7E-B3FA-2E9A6B9DE181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82FF5822-C797-4E7E-B3FA-2E9A6B9DE181}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59A62C6D-A8E8-40F7-BED6-76CFC5972D4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59A62C6D-A8E8-40F7-BED6-76CFC5972D4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59A62C6D-A8E8-40F7-BED6-76CFC5972D4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59A62C6D-A8E8-40F7-BED6-76CFC5972D4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C038CC0D-4E06-4BB6-8442-84FD5A68B2DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C038CC0D-4E06-4BB6-8442-84FD5A68B2DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C038CC0D-4E06-4BB6-8442-84FD5A68B2DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C038CC0D-4E06-4BB6-8442-84FD5A68B2DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A474943-CAF9-4C5C-80CA-1D379DA2E79B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A474943-CAF9-4C5C-80CA-1D379DA2E79B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A474943-CAF9-4C5C-80CA-1D379DA2E79B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A474943-CAF9-4C5C-80CA-1D379DA2E79B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DBFBCDF-410F-48E4-80F5-306512C2E975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DBFBCDF-410F-48E4-80F5-306512C2E975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DBFBCDF-410F-48E4-80F5-306512C2E975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DBFBCDF-410F-48E4-80F5-306512C2E975}.Release|Any CPU.Build.0 = Release|Any CPU
+		{320C232C-DDC3-40AE-A280-A1077D6A745F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{320C232C-DDC3-40AE-A280-A1077D6A745F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{320C232C-DDC3-40AE-A280-A1077D6A745F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{320C232C-DDC3-40AE-A280-A1077D6A745F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C50B61D0-FE49-4A90-B9F0-EC1FD4E9158E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C50B61D0-FE49-4A90-B9F0-EC1FD4E9158E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C50B61D0-FE49-4A90-B9F0-EC1FD4E9158E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C50B61D0-FE49-4A90-B9F0-EC1FD4E9158E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9666D404-BF6B-4650-B7F5-DDF34AF4885A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9666D404-BF6B-4650-B7F5-DDF34AF4885A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9666D404-BF6B-4650-B7F5-DDF34AF4885A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9666D404-BF6B-4650-B7F5-DDF34AF4885A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B2E2C27-7DB5-42AD-B598-FF97FE6E675D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B2E2C27-7DB5-42AD-B598-FF97FE6E675D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B2E2C27-7DB5-42AD-B598-FF97FE6E675D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B2E2C27-7DB5-42AD-B598-FF97FE6E675D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19BAB28A-3EF3-4C64-A61B-2E39945595C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19BAB28A-3EF3-4C64-A61B-2E39945595C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19BAB28A-3EF3-4C64-A61B-2E39945595C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19BAB28A-3EF3-4C64-A61B-2E39945595C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E764E70A-2BDE-46A1-8919-547B37E55E3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E764E70A-2BDE-46A1-8919-547B37E55E3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E764E70A-2BDE-46A1-8919-547B37E55E3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E764E70A-2BDE-46A1-8919-547B37E55E3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B0FB036-C539-4BF3-8AD4-33EEF1CBD75B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B0FB036-C539-4BF3-8AD4-33EEF1CBD75B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B0FB036-C539-4BF3-8AD4-33EEF1CBD75B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B0FB036-C539-4BF3-8AD4-33EEF1CBD75B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E69B20B-68CC-42C1-9845-9FFD5DB9A181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E69B20B-68CC-42C1-9845-9FFD5DB9A181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E69B20B-68CC-42C1-9845-9FFD5DB9A181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E69B20B-68CC-42C1-9845-9FFD5DB9A181}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BE1DE69-7AFF-46CC-88E8-AAF182EB0087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BE1DE69-7AFF-46CC-88E8-AAF182EB0087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BE1DE69-7AFF-46CC-88E8-AAF182EB0087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BE1DE69-7AFF-46CC-88E8-AAF182EB0087}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CA1C77C-110F-4528-8127-73948A6C8C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CA1C77C-110F-4528-8127-73948A6C8C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CA1C77C-110F-4528-8127-73948A6C8C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CA1C77C-110F-4528-8127-73948A6C8C01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DAB9A3A-C209-4024-917E-1D14FC16388B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DAB9A3A-C209-4024-917E-1D14FC16388B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DAB9A3A-C209-4024-917E-1D14FC16388B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DAB9A3A-C209-4024-917E-1D14FC16388B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FD7E933-ED3E-411C-94F0-5E3891C41101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FD7E933-ED3E-411C-94F0-5E3891C41101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FD7E933-ED3E-411C-94F0-5E3891C41101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FD7E933-ED3E-411C-94F0-5E3891C41101}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9A16C034-CB68-4B2F-ADF3-7379CE45F5CB} = {F1CDC28E-2891-48DA-8DDF-7C137DCAB211}
+		{82FF5822-C797-4E7E-B3FA-2E9A6B9DE181} = {F1CDC28E-2891-48DA-8DDF-7C137DCAB211}
+		{59A62C6D-A8E8-40F7-BED6-76CFC5972D4B} = {A8182847-3A35-4E88-B992-1CFBEE165274}
+		{C038CC0D-4E06-4BB6-8442-84FD5A68B2DF} = {6FF033B4-4DF7-4DEB-8011-FAD0593C49CC}
+		{5A474943-CAF9-4C5C-80CA-1D379DA2E79B} = {6FF033B4-4DF7-4DEB-8011-FAD0593C49CC}
+		{0DBFBCDF-410F-48E4-80F5-306512C2E975} = {95DD57C0-759D-4A88-970B-D3F672DE82E0}
+		{320C232C-DDC3-40AE-A280-A1077D6A745F} = {95DD57C0-759D-4A88-970B-D3F672DE82E0}
+		{C50B61D0-FE49-4A90-B9F0-EC1FD4E9158E} = {F71C58C5-C413-4FE4-8A51-75FF0E3A7B98}
+		{9666D404-BF6B-4650-B7F5-DDF34AF4885A} = {F71C58C5-C413-4FE4-8A51-75FF0E3A7B98}
+		{3B2E2C27-7DB5-42AD-B598-FF97FE6E675D} = {53ED385B-E406-4DBB-B07C-4E5AF1A7558E}
+		{19BAB28A-3EF3-4C64-A61B-2E39945595C3} = {53ED385B-E406-4DBB-B07C-4E5AF1A7558E}
+		{E764E70A-2BDE-46A1-8919-547B37E55E3C} = {5D79FC2E-55EE-4C34-9F73-E8600BD07AC6}
+		{4B0FB036-C539-4BF3-8AD4-33EEF1CBD75B} = {5D79FC2E-55EE-4C34-9F73-E8600BD07AC6}
+		{3E69B20B-68CC-42C1-9845-9FFD5DB9A181} = {A8182847-3A35-4E88-B992-1CFBEE165274}
+		{5BE1DE69-7AFF-46CC-88E8-AAF182EB0087} = {CBC05EF4-B865-4329-8F80-72180DFCC847}
+		{8CA1C77C-110F-4528-8127-73948A6C8C01} = {CBC05EF4-B865-4329-8F80-72180DFCC847}
+		{9DAB9A3A-C209-4024-917E-1D14FC16388B} = {8EA032BB-92C8-4874-81D6-DB9BD7CDFDCB}
+		{6FD7E933-ED3E-411C-94F0-5E3891C41101} = {8EA032BB-92C8-4874-81D6-DB9BD7CDFDCB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91729261-02FC-4108-8920-7AC6D9CAE815}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 20
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://c16ditfs1/maincollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Browser.Core.Framework\\Browser.Core.Framework.csproj
+		SccProjectName1 = Browser.Core.Framework
+		SccLocalPath1 = Browser.Core.Framework
+		SccProjectUniqueName2 = RCP.AppFramework\\RCP.AppFramework.csproj
+		SccProjectTopLevelParentUniqueName2 = CECity.LMS.WebAutomationV2.sln
+		SccProjectName2 = RCP.AppFramework
+		SccLocalPath2 = RCP.AppFramework
+		SccProjectUniqueName3 = RCP.UITest\\RCP.UITest.csproj
+		SccProjectTopLevelParentUniqueName3 = CECity.LMS.WebAutomationV2.sln
+		SccProjectName3 = RCP.UITest
+		SccLocalPath3 = RCP.UITest
+		SccProjectUniqueName4 = AMA.AppFramework\\AMA.AppFramework.csproj
+		SccProjectTopLevelParentUniqueName4 = CECity.LMS.WebAutomationV2.sln
+		SccProjectName4 = AMA.AppFramework
+		SccLocalPath4 = AMA.AppFramework
+		SccProjectUniqueName5 = AMA.UITest\\AMA.UITest.csproj
+		SccProjectTopLevelParentUniqueName5 = CECity.LMS.WebAutomationV2.sln
+		SccProjectName5 = AMA.UITest
+		SccLocalPath5 = AMA.UITest
+		SccProjectUniqueName6 = CFPC.AppFramework\\CFPC.AppFramework.csproj
+		SccProjectTopLevelParentUniqueName6 = CECity.LMS.WebAutomationV2.sln
+		SccProjectName6 = CFPC.AppFramework
+		SccLocalPath6 = CFPC.AppFramework
+		SccProjectUniqueName7 = AAFPRS.UITest\\AAFPRS.UITest.csproj
+		SccProjectTopLevelParentUniqueName7 = CECity.LMS.WebAutomationV2.sln
+		SccProjectName7 = AAFPRS.UITest
+		SccLocalPath7 = AAFPRS.UITest
+		SccProjectUniqueName8 = AAFPRS.AppFramework\\AAFPRS.AppFramework.csproj
+		SccProjectTopLevelParentUniqueName8 = CECity.LMS.WebAutomationV2.sln
+		SccProjectName8 = AAFPRS.AppFramework
+		SccLocalPath8 = AAFPRS.AppFramework
+		SccProjectUniqueName9 = ASNC.AppFramework\\ASNC.AppFramework.csproj
+		SccProjectTopLevelParentUniqueName9 = CECity.LMS.WebAutomationV2.sln
+		SccProjectName9 = ASNC.AppFramework
+		SccLocalPath9 = ASNC.AppFramework
+		SccProjectUniqueName10 = ASNC.UITest\\ASNC.UITest.csproj
+		SccProjectTopLevelParentUniqueName10 = CECity.LMS.WebAutomationV2.sln
+		SccProjectName10 = ASNC.UITest
+		SccLocalPath10 = ASNC.UITest
+		SccProjectUniqueName11 = NOF.AppFramework\\NOF.AppFramework.csproj
+		SccProjectTopLevelParentUniqueName11 = CECity.LMS.WebAutomationV2.sln
+		SccProjectName11 = NOF.AppFramework
+		SccLocalPath11 = NOF.AppFramework
+		SccProjectUniqueName12 = NOF.UITest\\NOF.UITest.csproj
+		SccProjectTopLevelParentUniqueName12 = CECity.LMS.WebAutomationV2.sln
+		SccProjectName12 = NOF.UITest
+		SccLocalPath12 = NOF.UITest
+		SccProjectUniqueName13 = LMS.AppFramework\\LS.AppFramework.csproj
+		SccProjectTopLevelParentUniqueName13 = CECity.LMS.WebAutomationV2.sln
+		SccProjectName13 = LMS.AppFramework
+		SccLocalPath13 = LMS.AppFramework
+		SccProjectUniqueName14 = LS.UITest\\LS.UITest.csproj
+		SccProjectTopLevelParentUniqueName14 = CECity.LMS.WebAutomationV2.sln
+		SccProjectName14 = LS.UITest
+		SccLocalPath14 = LS.UITest
+		SccProjectUniqueName15 = CFPC.UITest\\CFPC.UITest.csproj
+		SccProjectTopLevelParentUniqueName15 = CECity.LMS.WebAutomationV2.sln
+		SccProjectName15 = CFPC.UITest
+		SccLocalPath15 = CFPC.UITest
+		SccProjectUniqueName16 = CME360.UITest\\CME360.UITest.csproj
+		SccProjectTopLevelParentUniqueName16 = CECity.LMS.WebAutomationV2.sln
+		SccProjectName16 = CME360.UITest
+		SccLocalPath16 = CME360.UITest
+		SccProjectUniqueName17 = CME360.AppFramework\\CME360.AppFramework.csproj
+		SccProjectTopLevelParentUniqueName17 = CECity.LMS.WebAutomationV2.sln
+		SccProjectName17 = CME360.AppFramework
+		SccLocalPath17 = CME360.AppFramework
+		SccProjectUniqueName18 = TestPortal.AppFramework\\TestPortal.AppFramework.csproj
+		SccProjectTopLevelParentUniqueName18 = CECity.LMS.WebAutomationV2.sln
+		SccProjectName18 = TestPortal.AppFramework
+		SccLocalPath18 = TestPortal.AppFramework
+		SccProjectUniqueName19 = TestPortal.UITest\\TestPortal.UITest.csproj
+		SccProjectTopLevelParentUniqueName19 = CECity.LMS.WebAutomationV2.sln
+		SccProjectName19 = TestPortal.UITest
+		SccLocalPath19 = TestPortal.UITest
+	EndGlobalSection
+EndGlobal
